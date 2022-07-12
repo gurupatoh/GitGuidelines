@@ -19,6 +19,7 @@ class Preloader extends Phaser.Scene {
     }
 
     startGame ()
+    
     {
         // this.scene.start('MainMenu');
         // this.scene.start('PlayerDetails');
